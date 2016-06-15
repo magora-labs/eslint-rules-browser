@@ -1,0 +1,31 @@
+{
+  "name": "eslint-rules-browser",
+  "version": "0.0.1",
+  "description": "eslint rule set for browser javascript",
+  "keywords": [
+    "eslint",
+    "rules",
+    "style guide",
+    "javascript",
+    "browser"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Philipp Wurz",
+    "email": "philipp.wurz@magora.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magora-labs/eslint-rules-browser.git"
+  },
+  "dependencies": {
+    "eslint-rules": "https://github.com/magora-labs/eslint-rules.git"
+  },
+  "devDependencies": {
+    "changelog42": "0.9.0"
+  },
+  "scripts": {
+    "log": "changelog42 --no-author --commit-url=https://github.com/magora-labs/eslint-rules-browser/commit",
+    "clean": "rm -rf node_modules/ && rm -f npm-debug.log"
+  }
+}
