@@ -9,7 +9,7 @@
     "no-eval": 1,
     "no-multiple-empty-lines": [1, {"max": 2}],
     "no-warning-comments": [1, {"terms": ["todo"], "location": "anywhere" }],
-    "strict": [1, "global"]
+    "strict": [1, "safe"]
   },
   "env": {
     "node": false,
