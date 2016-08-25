@@ -1,5 +1,12 @@
 # eslint-rules-browser ChangeLog
 
+## 2016-08-25, [v1.2.0](https://github.com/magora-labs/eslint-rules-browser/tree/v1.2.0) **_<small>stable</small>_**
+
+### Commits
+
+  - [[`27fa5aafd5`](https://github.com/magora-labs/eslint-rules-browser/commit/27fa5aafd55f35fb373d28318e38f0866baac02b)] - **.eslintrc**: changed "strict"-rule from "global" to "safe"
+
+
 ## 2016-06-17, [v1.1.0](https://github.com/magora-labs/eslint-rules-browser/tree/v1.1.0) **_<small>stable</small>_**
 
 ### Commits
