@@ -1,5 +1,14 @@
 # eslint-rules-browser ChangeLog
 
+## 2016-09-06, [v1.3.0](https://github.com/magora-labs/eslint-rules-browser/tree/v1.3.0) **_<small>stable</small>_**
+
+### Commits
+
+  - [[`e0ffc8152c`](https://github.com/magora-labs/eslint-rules-browser/commit/e0ffc8152cd17491afbfb7a3888c942cf70be1ee)] - **dependencies**: mgl-eslint-rules 1.1.0
+  - [[`b047c78c24`](https://github.com/magora-labs/eslint-rules-browser/commit/b047c78c241b3cd415762caf51a5f5b3759a921b)] - **package**: changed name to "mgl-eslint-rules-browser" (npm)
+  - [[`3c91a62c8b`](https://github.com/magora-labs/eslint-rules-browser/commit/3c91a62c8b7359fb9137f032674e80d636194d7f)] - use mgl-eslint-rules
+
+
 ## 2016-08-25, [v1.2.0](https://github.com/magora-labs/eslint-rules-browser/tree/v1.2.0) **_<small>stable</small>_**
 
 ### Commits
