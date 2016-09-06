@@ -19,7 +19,7 @@
     "url": "https://github.com/magora-labs/eslint-rules-browser.git"
   },
   "dependencies": {
-    "eslint-rules": "https://github.com/magora-labs/eslint-rules.git#v1.0.0"
+    "mgl-eslint-rules": "1.0.0"
   },
   "devDependencies": {
     "changelog42": "0.9.0"

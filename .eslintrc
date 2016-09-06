@@ -1,6 +1,6 @@
 {
   "extends": [
-    "../eslint-rules/.eslintrc"
+    "../mgl-eslint-rules/.eslintrc"
   ],
   "rules": {
     "comma-style": [2, "last"],

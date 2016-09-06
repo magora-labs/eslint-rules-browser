@@ -4,17 +4,21 @@
 
 Style rules closely follow google's javascript style guide.
 
+### Installation
+
+`npm i mgl-eslint-rules-browser`
+
 ### Using as configuration file
 
-Create a ```.eslintrc``` with
+Create a `.eslintrc` with
 
 ```js
 {
   "extends": [
-    "./node_modules/eslint-rules-browser/.eslintrc"
+    "./node_modules/mgl-eslint-rules-browser/.eslintrc"
   ],
   "rules": {
-    // ad your rules here
+    // add your rules here
   }
 }
 
