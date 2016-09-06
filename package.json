@@ -1,5 +1,5 @@
 {
-  "name": "eslint-rules-browser",
+  "name": "mgl-eslint-rules-browser",
   "version": "1.2.0",
   "description": "eslint rule set for browser javascript",
   "keywords": [
