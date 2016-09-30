@@ -8,7 +8,7 @@
     "no-console": 1,
     "no-eval": 1,
     "no-multiple-empty-lines": [1, {"max": 2}],
-    "no-warning-comments": [1, {"terms": ["todo"], "location": "anywhere" }],
+    "no-warning-comments": [1, {"terms": ["todo"], "location": "anywhere"}],
     "strict": [1, "safe"]
   },
   "env": {
