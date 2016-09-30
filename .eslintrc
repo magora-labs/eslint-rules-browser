@@ -13,6 +13,7 @@
   },
   "env": {
     "node": false,
-    "browser": true
+    "browser": true,
+    "es6": false
   }
 }
