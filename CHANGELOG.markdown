@@ -1,5 +1,13 @@
 # eslint-rules-browser ChangeLog
 
+## 2016-09-30, [v1.4.0](https://github.com/magora-labs/eslint-rules-browser/tree/v1.4.0) **_<small>stable</small>_**
+
+### Commits
+
+  - [[`37b1c89dc3`](https://github.com/magora-labs/eslint-rules-browser/commit/37b1c89dc3b8f2de1b14a6fa456f327127caf954)] - **eslintrc**: disabled es6
+  - [[`07669afc02`](https://github.com/magora-labs/eslint-rules-browser/commit/07669afc02d80e72b6640643e96c7b02b0efac8a)] - **eslintrc**: format
+
+
 ## 2016-09-06, [v1.3.0](https://github.com/magora-labs/eslint-rules-browser/tree/v1.3.0) **_<small>stable</small>_**
 
 ### Commits
