@@ -1,0 +1,17 @@
+{
+  "extends": "../mgl-eslint-rules/.eslintrc",
+  "rules": {
+    "comma-style": [2, "last"],
+    "no-alert": 1,
+    "no-console": 1,
+    "no-eval": 1,
+    "no-multiple-empty-lines": [1, {"max": 2}],
+    "no-warning-comments": [1, {"terms": ["todo"], "location": "anywhere"}],
+    "strict": [1, "safe"]
+  },
+  "env": {
+    "node": false,
+    "browser": true,
+    "es6": false
+  }
+}

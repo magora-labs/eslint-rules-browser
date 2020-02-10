@@ -4,13 +4,17 @@
 const fs = require('fs');
 const path = require('path');
 
-const rc = require('./eslintrc');
-const internal = fs.accessSync('./node_modules');
+const rc = require('./.eslintrc.json');
+let internal = true;
+
+try {
+  fs.accessSync(path.join(__dirname, './node_modules'));
+} catch (error) {
+  internal = false;
+}
 
 
 module.exports = {
   ...rc,
-  extends: [
-    path.join(internal ? './node_modules/' : '../', 'mgl-eslint-rules/.eslintrc')
-  ]
-}
+  extends: `${internal ? './node_modules/' : '../'}mgl-eslint-rules/.eslintrc`
+};
