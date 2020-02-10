@@ -1,5 +1,11 @@
 # eslint-rules-browser ChangeLog
 
+## 2020-02-10, [v1.5.0](https://github.com/magora-labs/eslint-rules-browser/tree/v1.5.0) **_<small>stable</small>_**
+
+### Commits
+
+  - [[`3263d856c8`](https://github.com/magora-labs/eslint-rules-browser/commit/3263d856c888a3d8576be3009665f420deaf42ce)] - add `.eslintrc.js`
+
 ## 2016-09-30, [v1.4.0](https://github.com/magora-labs/eslint-rules-browser/tree/v1.4.0) **_<small>stable</small>_**
 
 ### Commits
