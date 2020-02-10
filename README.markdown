@@ -16,6 +16,8 @@ Create a `.eslintrc` with
 {
   "extends": [
     "./node_modules/mgl-eslint-rules-browser/.eslintrc"
+    // Use `.js` file if path cannot be resolved - `mgl-eslint-rules` not found.
+    // "./node_modules/mgl-eslint-rules-browser/.eslintrc.js"
   ],
   "rules": {
     // add your rules here
