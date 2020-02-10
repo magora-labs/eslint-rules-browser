@@ -1,5 +1,12 @@
 # eslint-rules-browser ChangeLog
 
+## 2020-02-10, [v1.6.0](https://github.com/magora-labs/eslint-rules-browser/tree/v1.6.0) **_<small>stable</small>_**
+
+### Commits
+
+  - [[`659f1315ad`](https://github.com/magora-labs/eslint-rules-browser/commit/659f1315adc80f625aa3acc2e13e1b4a57ad6fa1)] - fix `.eslintrc.js`
+  - [[`d18b2f645d`](https://github.com/magora-labs/eslint-rules-browser/commit/d18b2f645d87961b1a1e2f45c1ec2e25aee4eb80)] - **package**: fix version
+
 ## 2020-02-10, [v1.5.0](https://github.com/magora-labs/eslint-rules-browser/tree/v1.5.0) **_<small>stable</small>_**
 
 ### Commits
