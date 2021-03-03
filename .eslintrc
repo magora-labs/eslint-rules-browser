@@ -1,3 +1,25 @@
 {
-  "extends": "./.eslintrc.json"
+  "extends": "../mgl-eslint-rules/.eslintrc",
+  "rules": {
+    "strict": 0,
+    "comma-style": [
+      "error",
+      "last"
+    ],
+    "no-alert": "warn",
+    "no-eval": "warn",
+    "no-warning-comments": [
+      "warn",
+      {
+        "terms": [
+          "todo"
+        ],
+        "location": "anywhere"
+      }
+    ]
+  },
+  "env": {
+    "node": false,
+    "browser": true
+  }
 }
